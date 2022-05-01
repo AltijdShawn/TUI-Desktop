@@ -23,9 +23,9 @@ module.exports = ([opt,deps]) => {
     vi: true,
     scrollbar: {
       bg: 'white',
-      ch: ' '
+      ch: '@'
     },
-    draggable: true
+    // draggable: true
   });
   
   var box = blessed.box({

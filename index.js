@@ -46,6 +46,8 @@ async function render() {
     //   ]
     // );
 
+    screen.title = "TUI-DE";
+
     screen.render();
     // render()
   } catch (e) {
