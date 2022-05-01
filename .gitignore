@@ -1,0 +1,7 @@
+.vscode/
+Test-Media/
+node_modules/
+yarn.lock
+yarn-error.log
+Clock.snippet.js
+logs/*.log

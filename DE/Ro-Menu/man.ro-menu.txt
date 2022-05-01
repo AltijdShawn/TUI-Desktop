@@ -1,0 +1,7 @@
+Unknown option:
+Expected: <option> [<command>] [arg]
+Available options are:
+    run-app <app> [args] - run an app
+    run-js <js code> - run a js code [WORK IN PROGRESS!!!]
+    exit - exit the TUI-Desktop shell
+    cancel - cancel the Ro-Menu prompt
