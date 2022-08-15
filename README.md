@@ -7,6 +7,6 @@
 
 This repo includes:
 * The source code of the custom blessed module (`lib/blessed` & `lib/blessed-contrib`)
-* A window manager... kinda called **the TUI-Desktop Shell** (`index.js` & `DE/main.shell.js`)
-* A launcher lightely inspired by Rofi called **Ro-Menu** (`Ro-Menu/`)
+* A window manager... kinda, called **the TUI-Desktop Shell** (`index.js` & `DE/main.shell.js`)
+* A launcher lightely inspired by Rofi and Dmenu called **Ro-Menu** (`Ro-Menu/`)
 * And 2 **Work in progress** apps (`DE/textterm.app.js` & `DE/filemanager.app.js`)
